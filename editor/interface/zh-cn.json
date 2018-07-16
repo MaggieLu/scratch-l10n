@@ -204,7 +204,7 @@
         "description": "Menu bar item for creating a new project"
     },
     "gui.customProcedures.addALabel": {
-        "message": "添加文本标签：",
+        "message": "添加文本标签",
         "description": "Label for button to add a label"
     },
     "gui.soundEditor.trim": {
@@ -910,5 +910,29 @@
     "gui.prompt.cancel": {
         "message": "取消",
         "description": "Button in prompt for cancelling the dialog"
+    },
+    "gui.controls.run": {
+        "message": "运行",
+        "description": "Run Arduino button title"
+    },
+    "gui.controls.compile": {
+        "message": "编译",
+        "description": "Compile Arduino button title"
+    },
+    "gui.controls.uploadCode": {
+        "message": "保存代码",
+        "description": "Save Arduino Code button title"
+    },
+    "gui.controls.serialPort": {
+        "message": "查看串口",
+        "description": "Serial output"
+    },
+    "gui.popup.remove": {
+        "message": "关闭",
+        "description": "Buttom in popup for closing the code popup"
+    },
+    "gui.popup.submit": {
+        "message": "保存代码",
+        "description": "Buttom in popup for saving code"
     }
 }
