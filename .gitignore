@@ -10,3 +10,6 @@ npm-*
 
 # generated build files
 /dist
+
+# Vim
+*.swp

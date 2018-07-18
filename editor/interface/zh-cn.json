@@ -919,9 +919,9 @@
         "message": "编译",
         "description": "Compile Arduino button title"
     },
-    "gui.controls.uploadCode": {
-        "message": "保存代码",
-        "description": "Save Arduino Code button title"
+    "gui.controls.arduinoCodeButton": {
+        "message": "Arduino代码",
+        "description": "Show/Save Arduino Code button title"
     },
     "gui.controls.serialPort": {
         "message": "查看串口",
@@ -932,6 +932,14 @@
         "description": "Buttom in popup for closing the code popup"
     },
     "gui.popup.submit": {
+        "message": "保存代码",
+        "description": "Buttom in popup for saving code"
+    },
+    "gui.arduinoCode.cancel": {
+        "message": "取消",
+        "description": "Buttom in popup for saving code"
+    },
+    "gui.arduinoCode.save": {
         "message": "保存代码",
         "description": "Buttom in popup for saving code"
     }

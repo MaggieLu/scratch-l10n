@@ -420,7 +420,7 @@
         "description": "Initialize beat."
     },
     "arduino.setSpeed": {
-        "message": "设置演奏速度为 [BPM]拍/分钟",
+        "message": "设置 演奏速度为 [BPM]拍/分钟",
         "description": "Set play speed to beats per minute."
     },
     "arduino.rest": {
@@ -552,23 +552,19 @@
         "description": "Set tube display time 00:00"
     },
     "arduino.readGestureSensor": {
-        "message": "读取 手势传感器 INT引脚[PIN]",
+        "message": "读取 手势传感器 INT引脚[PIN] 的值",
         "description": "Read direction from gesture sensor."
     },
-    "arduino.setRemotePin": {
-        "message": "设置红外遥控 DATA引脚[PIN]",
-        "description": "Set remote pin"
-    },
     "arduino.readRemoteData": {
-        "message": "读取红外遥控的值",
+        "message": "读取 红外遥控 DATA引脚[PIN] 的值",
         "description": "Set remote pin"
     },
     "arduino.setMotorSpeed": {
-        "message": "设置马达[MOTOR]的速度为[SPEED]",
+        "message": "设置 马达[MOTOR]的速度为[SPEED]",
         "description": "Set motor speed"
     },
     "arduino.set2MotorsSpeed": {
-        "message": "设置马达1的速度为[SPEED1] 马达2的速度为[SPEED2]",
+        "message": "设置 马达1的速度为[SPEED1] 马达2的速度为[SPEED2]",
         "description": "Set both motors speed"
     },
     "arduino.motor.first": {
