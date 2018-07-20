@@ -76,7 +76,7 @@
         "description": "Label for the brightness component in the color picker"
     },
     "paint.paintEditor.vector": {
-        "message": "Convert to Vector",
+        "message": "转换成矢量图",
         "description": "Label for button that converts the paint editor to vector mode"
     },
     "paint.paintEditor.costume": {
@@ -114,5 +114,45 @@
     "gui.comingSoon.message2": {
         "message": "很快就能用了……",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "paint.modeTools.delete": {
+        "message": "删除",
+        "description": ""
+    },
+    "paint.selectMode.select": {
+        "message": "选择",
+        "description": ""
+    },
+    "paint.reshapeMode.reshape": {
+        "message": "拉伸",
+        "description": ""
+    },
+    "paint.brushMode.brush": {
+        "message": "刷子",
+        "description": ""
+    },
+    "paint.eraserMode.eraser": {
+        "message": "橡皮檫",
+        "description": ""
+    },
+    "paint.fillMode.fill": {
+        "message": "填充",
+        "description": ""
+    },
+    "paint.textMode.text": {
+        "message": "文本",
+        "description": ""
+    },
+    "paint.lineMode.line": {
+        "message": "直线",
+        "description": ""
+    },
+    "paint.ovalMode.oval": {
+        "message": "圆",
+        "description": ""
+    },
+    "paint.rectMode.rect": {
+        "message": "正方形",
+        "description": ""
     }
 }
