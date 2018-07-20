@@ -736,7 +736,7 @@
         "description": ""
     },
     "arduino.matrix.makeGraph": {
-        "message": "点阵屏自定义图案[GRAPH]",
+        "message": "点阵屏自定义图案[MATRIX]",
         "description": ""
     }
 }
